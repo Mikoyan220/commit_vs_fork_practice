@@ -1,7 +1,6 @@
-<h1 align="center">Hey👋 I'm Sadman</h1>
-<p align="center">🥇 Data Scientis
-
-<p align="center">I’m a Data scientist and as for my future, I hope to one day work as a Project Manager role for data product and work with a diverse team to build large tech solutions where I will get the opportunity to learn and apply my full potential. :-)</p>
+<h1 align="center">Hey👋 I'm Fannie Thoo</h1>
+<p align="center">🥇 AI Product Owner 
+<p align="center">I’m a keen AI Product explorer and as for my future, I hope to works as a Project Manager role for data product and work with a diverse team to build large tech solutions where I will get the opportunity to learn and apply my full potential. :-)</p>
 
 <br>
 <h3 align="center"><strong>Languages and Tools:</strong></h3>
