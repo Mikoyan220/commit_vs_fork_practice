@@ -65,15 +65,3 @@ List of Explored Tools
     <img src="https://github.com/your-repo/dask.png" width="82" alt="Dask">
   </a>
 </p>
-
-<!-- Contact Section -->
-<p align="center">
-  <strong>How to Reach Me</strong>
-</p>
-<p align="center">
-  - 🔭 I am enhancing my artificial intelligence related concepts and practicality while waiting for more other required certifications.
-  <br/>
-  💬 Feel free to contact me for enquiries that spark your interest.
-  <br/>
-  -   📫 How to reach me: <a href="https://www.linkedin.com/in/fannie-t-ba953335/">linkedin.com/in/fanniethoo</a>
-</p>
