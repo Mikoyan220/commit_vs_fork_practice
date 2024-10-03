@@ -4,11 +4,11 @@ Hey👋 I'm Fannie Thoo
 
 </h1>
 
-<p align="center">
+<h3 align="center">
 
 🥇 AI + Data Scientist
 
-</p>
+</h3>
 
 <p align="center">
 
