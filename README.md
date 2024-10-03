@@ -10,17 +10,17 @@ Hey👋 I'm Fannie Thoo
 
 </h3>
 
-<p align="center">
+<h5 align="center">
 
 I used to be an IT Business Analyst / Consultant.
 
-</p>
+</h5>
 
-<p align="center">
+<h5 align="center">
 
 Curiosity about the potential of applicability of artificial intelligence gave me the opportunity to code.
 
-</p>
+</h5>
 
 <p align="center">
 
