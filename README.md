@@ -38,7 +38,7 @@ List of Explored Tools
 
 <p align="center">
 
-<a href="https://www.postgresql.org/"> <img src="https://www.postgresql.org/media/img/about/press/elephant.png" alt="PostgreSQL" width="30"/> </a> <img src="https://imgs.search.brave.com/lazV6Xkt__VO2pn-BNeUPgakWUt_ZSsqgRvXeE7HQtQ/rs:fit:500:0:0:0/g:ce/aHR0cHM6Ly9icmFu/ZHNsb2dvcy5jb20v/d3AtY29udGVudC91/cGxvYWRzL2ltYWdl/cy9teXNxbC1sb2dv/LTEucG5n" alt="MySQL" width="30"/> <img src="https://imgs.search.brave.com/kAzOrhWaIDLk1DasgmSLtnKan6Dl7hbF49ifMp8pOyQ/rs:fit:500:0:0:0/g:ce/aHR0cHM6Ly9jZG4u/cHJvZC53ZWJzaXRl/LWZpbGVzLmNvbS82/NTU5MjZmYTI0MTk1/NzExZGJmMzg2MjQv/NjU1OTI2ZmEyNDE5/NTcxMWRiZjM4Njli/X0Rhc2slMjBMb2dv/LWxvY2t1cC1Qcmlt/YXJ5LnN2Zw" alt="Dask" width="82"/>
+<a href="https://www.postgresql.org/"> <img src="https://www.postgresql.org/media/img/about/press/elephant.png" alt="PostgreSQL" width="50"/> </a> <img src="https://imgs.search.brave.com/lazV6Xkt__VO2pn-BNeUPgakWUt_ZSsqgRvXeE7HQtQ/rs:fit:500:0:0:0/g:ce/aHR0cHM6Ly9icmFu/ZHNsb2dvcy5jb20v/d3AtY29udGVudC91/cGxvYWRzL2ltYWdl/cy9teXNxbC1sb2dv/LTEucG5n" alt="MySQL" width="50"/> <img src="https://imgs.search.brave.com/kAzOrhWaIDLk1DasgmSLtnKan6Dl7hbF49ifMp8pOyQ/rs:fit:500:0:0:0/g:ce/aHR0cHM6Ly9jZG4u/cHJvZC53ZWJzaXRl/LWZpbGVzLmNvbS82/NTU5MjZmYTI0MTk1/NzExZGJmMzg2MjQv/NjU1OTI2ZmEyNDE5/NTcxMWRiZjM4Njli/X0Rhc2slMjBMb2dv/LWxvY2t1cC1Qcmlt/YXJ5LnN2Zw" alt="Dask" width="455"/>
 
 </p>
 
