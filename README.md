@@ -1,81 +1,36 @@
-<h1 align="center">
+<h1 align="center">Hey👋 I'm Sadman</h1>
+<p align="center">🥇 Data Scientis
 
-Hey👋 I'm Fannie Thoo
-
-</h1>
-
-<p align="center">
-
-🥇 AI + Data Scientist
-
-</p>
-
-<p align="center">
-
-I used to be an IT Business Analyst / Consultant.
-
-</p>
-
-<p align="center">
-
-Curiosity about the potential of applicability of artificial intelligence gave me the opportunity to code.
-
-</p>
-
-<p align="center">
-
-Hope all these technical exploration will assist me to work as a Data Engineer within 3 years. I hope to join an organization where I can learn and apply my available limited knowledge. =)
-
-</p>
+<p align="center">I’m a Data scientist and as for my future, I hope to one day work as a Project Manager role for data product and work with a diverse team to build large tech solutions where I will get the opportunity to learn and apply my full potential. :-)</p>
 
 <br>
+<h3 align="center"><strong>Languages and Tools:</strong></h3>
 
-<h3 align="center">
+<p align="center"> <img src="https://www.vectorlogo.zone/logos/firebase/firebase-icon.svg" alt="firebase" width="30" height="30"/>   <img src="https://cdn.worldvectorlogo.com/logos/django.svg" alt="illustrator" width="30" height="30"/> </a> <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript" width="30" height="30"/> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original-wordmark.svg" alt="react" width="30" height="30"/> <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/2/2d/Tensorflow_logo.svg/1200px-Tensorflow_logo.svg.png" alt="sass" width="30" height="30"/>  </p>
 
-List of Explored Tools
-
-</h3>
-
+<BR>
 <p align="center">
-
-[![PostgreSQL](https://www.postgresql.org/media/img/about/press/elephant.png){width="30"}](https://www.postgresql.org/) ![MySQL](https://imgs.search.brave.com/lazV6Xkt__VO2pn-BNeUPgakWUt_ZSsqgRvXeE7HQtQ/rs:fit:500:0:0:0/g:ce/aHR0cHM6Ly9icmFu/ZHNsb2dvcy5jb20v/d3AtY29udGVudC91/cGxvYWRzL2ltYWdl/cy9teXNxbC1sb2dv/LTEucG5n){width="30"}![Dask](https://imgs.search.brave.com/kAzOrhWaIDLk1DasgmSLtnKan6Dl7hbF49ifMp8pOyQ/rs:fit:500:0:0:0/g:ce/aHR0cHM6Ly9jZG4u/cHJvZC53ZWJzaXRl/LWZpbGVzLmNvbS82/NTU5MjZmYTI0MTk1/NzExZGJmMzg2MjQv/NjU1OTI2ZmEyNDE5/NTcxMWRiZjM4Njli/X0Rhc2slMjBMb2dv/LWxvY2t1cC1Qcmlt/YXJ5LnN2Zw){width="82"}
-
+- 🔭 I’m currently persuing my masters in Universiti Malaya <br/> - 💬 Feel free to contact me for any query releted to tech
+ <br> - 📫 How to reach me: linkedin.com/in/sadman923/
 </p>
 
-<p align="center">
+<div align="center"><img src="https://github-readme-stats.vercel.app/api?username=siam923&show_icons=true&count_private=true&theme=tokyonight" alt="stats" /> </div>
 
-<a href="https://www.postgresql.org/"> <img src="https://www.postgresql.org/media/img/about/press/elephant.png" alt="PostgreSQL" width="30"/> </a> <img src="https://imgs.search.brave.com/lazV6Xkt__VO2pn-BNeUPgakWUt_ZSsqgRvXeE7HQtQ/rs:fit:500:0:0:0/g:ce/aHR0cHM6Ly9icmFu/ZHNsb2dvcy5jb20v/d3AtY29udGVudC91/cGxvYWRzL2ltYWdl/cy9teXNxbC1sb2dv/LTEucG5n" alt="MySQL" width="30"/> <img src="https://imgs.search.brave.com/kAzOrhWaIDLk1DasgmSLtnKan6Dl7hbF49ifMp8pOyQ/rs:fit:500:0:0:0/g:ce/aHR0cHM6Ly9jZG4u/cHJvZC53ZWJzaXRl/LWZpbGVzLmNvbS82/NTU5MjZmYTI0MTk1/NzExZGJmMzg2MjQv/NjU1OTI2ZmEyNDE5/NTcxMWRiZjM4Njli/X0Rhc2slMjBMb2dv/LWxvY2t1cC1Qcmlt/YXJ5LnN2Zw" alt="Dask" width="82"/>
+<!-- ![GitHub streak stats](https://github-readme-streak-stats.herokuapp.com/?user=OahidZihad&theme=radical)   -->
 
-</p>
+<div align="center"><img src="https://github-readme-streak-stats.herokuapp.com/?user=siam923&theme=radical" /> </div>
 
-<br>
+<!--
+**siam923/siam923** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
-<h4 align="center">
+Here are some ideas to get you started:
 
-Facilitated by
-
-</h4>
-
-<br>
-
-<h5 align="center">
-
--   OpenAI
-
-</h5>
-
-<h5 align="center">
-
--   Gemini
-
-</h5>
-
-<p align="center">
-
--   🔭 I am enhancing my artificial intelligence related concepts and practicality while waiting for more other required certifications.
-
--   💬 Feel free to contact me for enquiries that spark your interest.
-
--   📫 How to reach me: <a href="https://www.linkedin.com/in/fannie-t-ba953335/">linkedin.com/in/fanniethoo</a>
-
-</p>
+- 🔭 I’m currently working on ...
+- 🌱 I’m currently learning ...
+- 👯 I’m looking to collaborate on ...
+- 🤔 I’m looking for help with ...
+- 💬 Ask me about ...
+- 📫 How to reach me: ...
+- 😄 Pronouns: ...
+- ⚡ Fun fact: ...
+-->
