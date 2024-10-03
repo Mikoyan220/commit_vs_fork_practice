@@ -22,8 +22,8 @@ Curiosity about the potential of applicability of artificial intelligence gave m
 
 </h5>
 
-<p align="center">
+<h5 align="center">
 
 Hope all these technical exploration will assist me to work as a Data Engineer within 5 years. I hope to join an organization where I can learn and apply my available limited knowledge. =)
 
-</p>
+</h5>
